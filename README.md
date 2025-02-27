@@ -23,6 +23,7 @@ Hey! I'm Irene, a frontend developer who loves mixing **tech and design** to cre
 
 ### 🌟 A Bit More About Me
 When I'm not lost in code, you’ll probably find me:
+
 🧘‍♀️ Practicing yoga | 📸 Snapping cool photos | 🎧 Vibing to music | ✈️ Exploring new places
 
 ---
