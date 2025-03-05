@@ -62,4 +62,14 @@ I love working with 3D models using Three.js. Here's an example of how I integra
     renderer.render(scene, camera);
   }
   animate();
+
+
+import { GLTFLoader } from 'https://cdn.jsdelivr.net/npm/three@0.132.2/examples/jsm/loaders/GLTFLoader.js';
+
+const loader = new GLTFLoader();
+loader.load('path/to/your/model.glb', function (gltf) {
+  scene.add(gltf.scene);
+}, undefined, function (error) {
+  console.error(error);
+});
 </script>
