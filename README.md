@@ -1,32 +1,49 @@
-## 👋 Hey there!
-
-### 💻 Frontend Dev | 🎨 UX/UI Nerd | 🚀 Tech Explorer
-
-Hey! I'm Irene, a frontend developer who loves mixing **tech and design** to create awesome digital experiences. I'm all about **3D, AI, AR, and VR**, always looking for new ways to make the web more fun and interactive! ✨
-
----
-
-### 🚀 My Tech Toolbox
-- **Languages:** JavaScript, HTML, CSS, Python, C++
-- **Frameworks & Libraries:** React, Three.js, Next.js
-- **Design & Prototyping:** Figma, Axure, Blender, 3dsMax
-- **Other Cool Stuff:** WebGL, Unity, TailwindCSS, FreeRTOS
+<div align="center">
+  <h1>✨ Hey, I'm Irene! ✨</h1>
+  <h3>💻 Frontend Dev | 🎨 UX/UI Designer | 🚀 Tech Explorer</h3>
+</div>
 
 ---
 
-### 🏗️ What I'm Working On
-🚧 *Exciting projects in progress...* Stay tuned! 🎨💡
-
-🔗 [Check out my Portfolio](https://irene.divdev.es/)   |  💼 [Connect on LinkedIn](https://www.linkedin.com/in/irene-medina-garcia/)
+### 🚀 About Me
+👋 Hi! I'm Irene, a **UX/UI Designer** & **Frontend Developer** passionate about blending **design & technology** to craft immersive digital experiences. I explore **3D, AI, AR & VR** to push the web beyond limits! ✨
 
 ---
 
-### 🌟 A Bit More About Me
-When I'm not lost in code, you’ll probably find me:
+### 🎨 My Toolbox
 
-🧘‍♀️ Practicing yoga | 📸 Snapping cool photos | 🎧 Vibing to music | ✈️ Exploring new places
+💻 **Frontend & Dev**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+🎨 **Design & 3D**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+🛠 **Other Cool Stuff**  
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
 ---
 
-### 🚀 Let's Chat!
-📩 Hit me up if you wanna build something cool together or just geek out about tech & design! 💙
+### 🎯 What I'm Working On
+🚧 *Exciting projects coming soon... Stay tuned!* 🎨💡
+
+🔗 [**Portfolio**](https://irene.divdev.es/) | 💼 [**LinkedIn**](https://www.linkedin.com/in/irene-medina-garcia/)
+
+---
+
+### 🌟 Fun Facts About Me
+- 🧘‍♀️ Practicing yoga
+- 📸 Snapping cool photos
+- 🎧 Vibing to music
+- ✈️ Exploring new places
+
+---
+
+### ☕ Let's Connect!
+📩 **Hit me up if you wanna build something awesome or geek out about design & tech!** 💙
