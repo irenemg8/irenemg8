@@ -7,8 +7,10 @@
 👋 Hi! I'm Irene, a *UX/UI Designer* & *Frontend Developer* passionate about blending *design & technology* to craft immersive digital experiences. I explore *3D, AI, AR & VR* to push the web beyond limits! ✨
 
 <p align="center">
-  <img style="width:10rem; height:auto" src="https://irene.divdev.es/assets/but.gif"/>
+  <img style="width:5rem; height:auto" src="https://irene.divdev.es/assets/but.gif"/>
 </p>
+
+#
 
 ### 🧰 My Toolbox
 #### 💻 *Frontend & Dev*  
@@ -37,8 +39,14 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,windows,apple,linux,raspberrypi"/>
 </p>
 
-<h3 align="center">Reach me</h3>
+#
 
+### 🪐 Ways To Find Me
+<p align="left">
+<a href="https://www.linkedin.com/in/irene-medina-garcia" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+</p>
 <p align="center">
   <a  href="https://t.me/example" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
