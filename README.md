@@ -10,7 +10,6 @@
   <img style="width:5rem; height:auto" src="https://irene.divdev.es/assets/but.gif"/>
 </p>
 
-#
 
 ### 🧰 My Toolbox
 #### 💻 *Frontend & Dev*  
@@ -60,14 +59,10 @@
 </div>
 
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
-
+<!--
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="snake" />
+  <img src="https://raw.githubusercontent.com/irenemg8/irenemg8/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
+-->
