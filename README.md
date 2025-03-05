@@ -11,7 +11,7 @@
 ### 🎨 My Toolbox
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://irene.divdev.es/assets/but.GIF"/>
+  <img style="width:26rem; height:auto" src="https://irene.divdev.es/assets/but.gif"/>
 </p>
 
 
