@@ -42,12 +42,15 @@
 
 ### 🪐 Ways To Find Me
 <p align="left">
-<a href="https://irene.divdev.es/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Portfolio"/>
+<a href="mailto:irenebati4@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a> 
 <a href="https://www.linkedin.com/in/irene-medina-garcia" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
+<a href="https://irene.divdev.es/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=htmx" alt="Portfolio"/>
+</a> 
 </p>
 
 #
